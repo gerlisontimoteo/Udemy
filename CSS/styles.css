@@ -1,13 +1,19 @@
 body {
-  background-color: #cbf1f5;
+  margin: 0;
+  background-color: #b5f7c6;
+}
+
+div {
+  background-color: #b5f7c6;
 }
 
 h1 {
-  color: #aa96da;
+  margin-top: 0;
+  color: #418a6d;
 }
 
 h3 {
-  color: #aa96da;
+  color: #50ad8b;
 }
 
 hr {
